@@ -22,9 +22,9 @@ Example large-scale model.
         :return: None
 ### Example usage
 ```bash
-THTY score_dense idb=hcaadvaph_wk_playground itbl=ad09492_temporary odb=hcaadvaph_wk_playground otbl=ad09492_temporary_out prediction=yhat
+THTY score_dense idb=db itbl=itbl odb=db otbl=otbl prediction=yhat
 
-THTY score_sparse idb=hcaadvaph_wk_playground itbl=ad09492_temporary odb=hcaadvaph_wk_playground otbl=ad09492_temporary_out prediction=yhat
+THTY score_sparse idb=db itbl=itbl odb=db otbl=otbl prediction=yhat
 
 ```
 
