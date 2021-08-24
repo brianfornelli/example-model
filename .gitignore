@@ -1,0 +1,6 @@
+.idea*
+*.pyc
+dev/*.ipynb_checkpoints
+dev/*.tar.gz
+test.py
+notes

@@ -1,0 +1,5 @@
+include README.md
+include thty/spark/*.py
+include thty/resources/model/*.csv
+include thty/resources/model/*.txt
+include thty/resources/model/*.pkl
